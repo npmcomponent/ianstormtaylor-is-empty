@@ -1,11 +1,12 @@
 {
-  "name": "is-empty",
-  "repository": "https://github.com/ianstormtaylor/is-empty.git",
+  "name": "ianstormtaylor-is-empty",
   "description": "Check whether a value is empty.",
   "version": "0.0.1",
-  "keywords": ["empty", "array", "object"],
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  }
+  "keywords": [
+    "empty",
+    "array",
+    "object"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
